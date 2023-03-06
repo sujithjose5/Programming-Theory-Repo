@@ -358,6 +358,7 @@
 "Assets/Scripts/Box.cs"
 "Assets/Scripts/GreenBox.cs"
 "Assets/Scripts/RedBox.cs"
+"Assets/Scripts/UIControlScript.cs"
 -langversion:9.0
 
 /deterministic
